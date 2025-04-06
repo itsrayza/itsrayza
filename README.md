@@ -8,6 +8,9 @@
 🌱 **Atualmente estudando:**  
 - 📌 Data Science Academy: *Linguagem Python para Ciência de Dados*  
 - 📌 Udemy: *Formação Cientista de Dados*  
+- Python para Ciência de Dados 🐍
+- Web Scraping com Selenium 🕷️
+- SQL para análise de dados 📊
 
 🛠 **Tecnologias e Ferramentas:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -20,11 +23,6 @@
 📈 **Projetos:**  
 🔹 [Análise de Vendas com Python e Power BI](#)  
 🔹 [Web Scraping de Preços com Selenium](#)  
-
-## 📚 Atualmente estudando:
-- Python para Ciência de Dados 🐍
-- Web Scraping com Selenium 🕷️
-- SQL para análise de dados 📊
 
 
 📫 **Onde me encontrar:**  
